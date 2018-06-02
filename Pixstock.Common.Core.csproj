@@ -1,7 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <ItemGroup>
-    <ProjectReference Include="..\pixstock.common.model\Pixstock.Common.Model.csproj" />
+    <ProjectReference Include="..\Pixstock.Common.Model\Pixstock.Common.Model.csproj" />
   </ItemGroup>
 
   <PropertyGroup>
